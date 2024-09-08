@@ -1,5 +1,5 @@
 import { createRoot } from 'react-dom/client'
-import App from './App'
+import App from './App.jsx'
 import { createBrowserRouter, RouterProvider } from 'react-router-dom'
 import Contact from './components/Contact'
 import Home from './components/Home'
